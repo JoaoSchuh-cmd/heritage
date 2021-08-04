@@ -1,0 +1,2 @@
+module HerancaAtividade2 {
+}
